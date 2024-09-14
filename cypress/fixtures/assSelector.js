@@ -4,8 +4,6 @@ export const elements = {
     "loginButton":'[data-test="login-button"]',
     "standardUser":'standard_user',
     "password":'secret_sauce',
-    "invalidUser":'standing_user',
-    "invalidPassword":'secret_milk',
     "inventoryContainer":'[data-test="inventory-container"]',
     "backPack":'[data-test="add-to-cart-sauce-labs-backpack"]',
     "bikeLight":'[data-test="add-to-cart-sauce-labs-bike-light"]',
@@ -25,6 +23,7 @@ export const elements = {
     "finishButton":'[data-test="finish"]',
     "homeButton":'[data-test="back-to-products"]',
     "reactBurger":'#react-burger-menu-btn',
-    "logoutButton":'[data-test="logout-sidebar-link"]'
-    
+    "logoutButton":'[data-test="logout-sidebar-link"]',
+    "invalidUser":'standing_user',
+    "invalidPassword":'secret_milk',
 }
